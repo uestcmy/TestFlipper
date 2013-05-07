@@ -49,12 +49,13 @@ public class ImageAdapter extends BaseAdapter implements SpinnerAdapter {
 		return im1;
 	}
 	
-	public Integer[] ThumbsIds ={
+	public static Integer[] ThumbsIds ={
 			R.drawable.logo1,
 			R.drawable.logo2,
 			R.drawable.movie1,
 			R.drawable.weibo1,
 			R.drawable.weibo2,
-			R.drawable.weibo3
+			R.drawable.weibo3,
+			R.drawable.photo1
 	};
 }
